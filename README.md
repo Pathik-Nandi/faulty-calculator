@@ -1,5 +1,6 @@
 # faulty-calculator
-Designee a calculator which will correctly solve all the problem except the following ones: 45*3=555, 56+9=77,56/6=4
+#Designee a calculator which will correctly solve all the problem except the following ones: 45*3=555, 56+9=77,56/6=4
+
 inp1 = input("operator")
 print("Enter 1st number: ")
 val1= int(input())
